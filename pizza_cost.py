@@ -22,7 +22,7 @@ def main():
     total = subtotal + tax
 
     # display the total cost
-    print("Your total cost is ${:.2f}".format(total))
+    print("Your total cost is ${:.2f}.".format(total))
 
 
 if __name__ == "__main__":
